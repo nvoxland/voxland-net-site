@@ -1,14 +1,8 @@
 ---
 layout: default
-title: Hour 23
+title: voxland.net
 ---
 
-<div class="container">
-    <div class="row">
-        <div class="col-md-8">
-            <img src="/images/home-logo.png">
-        </div>
-        <div class="col-md-4">
-        </div>
-    </div>
-</div>
+# 200 Page Found
+
+Sorry, that's all there is...
